@@ -1,4 +1,4 @@
-# TypeSript MERN SolaraLuxe
+# SolaraLuxe
 
 A TypeScript App showcase by building a fully-functional e-commerce website  like amazon using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
